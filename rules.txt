@@ -1,0 +1,4 @@
+if the house has two or more levels, then the house has more than three people
+if the house has a large yard, then the house has two or more levels
+if the house has a pet and the house has more than three people, then the house is in the suburbs
+if the owner of the house is old, then the house has a pet
